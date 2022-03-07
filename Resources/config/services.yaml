@@ -6,3 +6,4 @@ services:
 
     stringify.helper:
         class: 'Lelan\StrBundle\Str\Stringify'
+        autowire: true
