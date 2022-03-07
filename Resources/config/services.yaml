@@ -1,2 +1,2 @@
 services:
-    Leland\StrBundle\Str\Stringify: ~
+    Lelan\StrBundle\Str\Stringify: ~

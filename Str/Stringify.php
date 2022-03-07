@@ -1,5 +1,5 @@
 <?php
-namespace Leland\StrBundle\Str;
+namespace Lelan\StrBundle\Str;
 
 class Stringify
 {

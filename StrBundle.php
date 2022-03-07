@@ -1,6 +1,6 @@
 <?php
-namespace Leland\StrBundle;
-use Leland\StrBundle\DependencyInjection\StrExtension;
+namespace Lelan\StrBundle;
+use Lelan\StrBundle\DependencyInjection\StrExtension;
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 use Symfony\Component\DependencyInjection\ContainerBuilder;
 
